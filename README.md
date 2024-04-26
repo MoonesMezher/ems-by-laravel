@@ -15,11 +15,11 @@ NOTE: you need to install xammp and any editor on your desktop.
 <br><code>php artisan key:generate</code><br>
 6- Configure the database connection in the .env file: 
 <br><code>DB_CONNECTION=mysql<br>
-    DB_HOST=127.0.0.1
-    DB_PORT=3306
-    DB_DATABASE=laravel_example
-    DB_USERNAME=root
-    DB_PASSWORD=</code>
+        DB_HOST=127.0.0.1
+        DB_PORT=3306
+        DB_DATABASE=laravel_example
+        DB_USERNAME=root
+        DB_PASSWORD=<br></code>
 7- Run the database migrations: 
 <br><code>php artisan migrate</code><br>
 8- Seed the database with sample data (optional): 

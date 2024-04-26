@@ -19,7 +19,7 @@ NOTE: you need to install xammp and any editor on your desktop.
         DB_PORT=3306
         DB_DATABASE=laravel_example
         DB_USERNAME=root
-        DB_PASSWORD=<br></code>
+        DB_PASSWORD=></code><br>
 7- Run the database migrations: 
 <br><code>php artisan migrate</code><br>
 8- Seed the database with sample data (optional): 

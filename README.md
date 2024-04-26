@@ -1,9 +1,9 @@
 # Employee Management System (EMS)
 
 - Postman test [documenter](https://documenter.getpostman.com/view/28836077/2sA3Bt3AF3)
-_ Here are the instructions for setting up the project: <br/>
+- Here are the instructions for setting up the project: <br/>
 NOTE: you need to install xammp and any editor on your desktop.
-1- Clone the repository to your local machine using the following command: 
+<br>1- Clone the repository to your local machine using the following command: 
 <br><code>git clone https://github.com/stevejobs/laravel-example.git</code><br>
 2- Navigate to the project directory: 
 <br><code>cd laravel-example</code><br>

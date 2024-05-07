@@ -4,7 +4,7 @@
 - Here are the instructions for setting up the project: <br/>
 NOTE: you need to install xammp and any editor on your desktop.
 <br>1- Clone the repository to your local machine using the following command: 
-<br><code>git clone https://github.com/stevejobs/laravel-example.git</code><br>
+<br><code>git clone https://github.com/MoonesMezher/ems-by.git</code><br>
 2- Navigate to the project directory: 
 <br><code>cd laravel-example</code><br>
 3- Install the project dependencies using Composer: 
